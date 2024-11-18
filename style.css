@@ -1,0 +1,48 @@
+h1{
+	background-color: blueviolet;
+}
+
+h2{
+	background-color: gray;
+}
+
+h3{
+	background-color: revert-layer;
+}
+h4{
+	background-color: green;
+}
+h5{
+	background-color: lightblue;
+}
+h6{
+	background-color: brown;
+}
+
+p{
+	background-color: #6AAF48;
+	color: #86BEC7;
+}
+body{
+	background-color: #2CCAE2;
+}
+table{background-color: pink;
+	color: black;
+}
+
+.d10{
+	border: 2px solid black;
+	background-color: orange;
+	color: black;
+	width: auto;
+	height: auto;
+	position: fixed;
+	top: ;
+	left: ;
+}
+
+/*.Button{
+	background-color: dark;
+	color: red;
+	font-family: cursive;
+}*/
